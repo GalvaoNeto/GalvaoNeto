@@ -1,16 +1,19 @@
-### Hi there 👋
+### Oi, eu sou o Galvão Neto😊
 
-<!--
-**GalvaoNeto/GalvaoNeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estudante de Ciencias da computação(2/8) - UESPI
+- Estudando Python
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GalvaoNeto&show_icons=true&theme=radical" alt="GalvaoNeto's GitHub Stats" />
+</p>
+<div align="center">
+  <a href="https://ibb.co/YXvpH4W">
+  
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<div align="center">  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://instagram.com/galvaoneto07" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gnetoti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+</div>
