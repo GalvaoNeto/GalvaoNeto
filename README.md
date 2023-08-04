@@ -1,6 +1,6 @@
 ### Oi, eu sou o Galvão Neto😊
 
-- Estudante de Ciencias da computação(2/8) - UESPI
+- Estudante de Ciencias da computação(3/8) - UESPI
 - Estudando Python
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GalvaoNeto&show_icons=true&theme=radical" alt="GalvaoNeto's GitHub Stats" />
