@@ -1,7 +1,8 @@
 ### Oi, eu sou o Galvão Neto😊
 
-- Estudante de Ciencias da computação(4/8) - UESPI
-- Estudando JS
+- Estudante de Ciencias da computação(5/8) - UESPI
+- Estudando JS, Java, Flutter e Mysql
+- Quero seguir no Ramo de Banco de Dados
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GalvaoNeto&show_icons=true&theme=radical" alt="GalvaoNeto's GitHub Stats" />
 </p>
